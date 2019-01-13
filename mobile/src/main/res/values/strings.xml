@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">miranda_client</string>
+    <string name="gps_not_found_title">Habilitar gps</string>
+    <string name="gps_not_found_message">Debe habilitar gps</string>
+    <string name="yes">Habilitar</string>
+    <string name="no">Cancelar</string>
+</resources>
